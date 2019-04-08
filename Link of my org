@@ -1,3 +1,10 @@
-click the link to get the google link https://lightpracticals-dev-ed--c.ap4.visual.force.com/flow/runtime.apexp?flowDevName=EmailToLead&flowVersionId=3016F000000lxuL
- 
+Steps to display or remove items from the header of every object in lightning components.
+
+1.Click on the setup and then click on the object manager 
+2. Select the object you want for example select (Account) then click on Compact layout
+3.click on the System default compact loyout.
+4.then click on Clone button at the top and give the name of your layout and select the fields you want then click save.\
+5.Now click on the layout you created and then click on Compact layout assignment
+6.Click on the edit assignment and select the layout you created from the dropdown button the click save
+7.You have successfully added the fields now refresh you tab to see the changes. 
 
